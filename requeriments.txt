@@ -1,0 +1,5 @@
+python_telegram_bot==10.0.2
+ujson==1.35
+telegram==0.0.1
+yaml==1.2
+pymongo==3.6.1

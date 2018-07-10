@@ -1,0 +1,77 @@
+{
+    "en" : {
+        "start" : "Hi {nickname}, I'm the bot of the F3rBs Hackerspace\n\t\t/ajuda - for more information",
+        "help" : "Commands Up:\n\t\t\t/regras - for rules\n\t\t\t/lang - for configuration of the my language\n\t\t\t/info - for information about me",
+        "welcome" : "Hello {name}\n\n\tWelcome to F3rBs Hacker/Maker space\nsend /ajuda - for more information",
+        "bye" : "Eeeeeeee bye bye {name}",
+        "rules" : {
+        	"title" : "- Rules F3rBs Hackerspace -\n",
+            "1" : "Our hackspace was created for the purpose of subversion and exchange of knowledge, do not make posts of information of other things that are outside the technology theme.",
+            "2" : "Do not discriminate or disparage any kind of programming language, simple or advanced, widely used or forgotten, all have their usefulness and value",
+            "3" : "Avoid discussions, be they religious, political, sports, etc. As said, hackspace is meant to make a networking with those present here, so be friendly.",
+            "4" : "Be careful about content links you submit, make sure it's trusted, and have permission to share.",
+            "5" : "Forbidden to send videos or images with pornographic content, images of accidents or tragedies, the group was not created for that, keep this in mind and, above all, respect for the people who are in it.",
+            "6" : "If you find any message that goes against the rules of the group, please notify the administration.",
+            "7" : "We are not responsible for the knowledge acquired here, hackerspace does not accept carding, banking and related activities. What to learn here is logically only for learning and for expanding knowledge.",
+            "8" : "And if there is any breach of rules, after a warning, if the error repeats itself, it will be banned from hackspace.",
+            "ass" : "\n\n_Att. F3rBs Hackerspace_"
+        },
+        "lang_status" : {
+        	"use" : "Use:\n\n\t\t\t/lang LANG",
+        	"success" : "Language configured for {l}",
+        	"error" : "This iso {iso} has not been registered yet"
+        },
+        "error" : {
+        	"initiate" : "Start a conversation with me in private first",
+        	"blocked" : "You blocked me. T.T"
+        },
+        "about" : {
+			"hmspace" : {
+				"title" : "- Hackspace|Hackerspace|Makerspace|Hacker Club -\n\n",
+				"description" : "\t\t\t\tThey are physical spaces where people with interests in common, usually in the field of technology (programming, electronics, multimedia, design, security ...) but also in other areas, can be found: conversations, ideas exchange, project collaboration and essentially sharing knowledge to build and create things, whether through meetup, internal events, lectures of members or third parties, activities, laboratories and the like."
+			},
+			"info" : "I was developed by the F3rBs Hackerspace community\n\t\t\tversion: {major}.{minor}.{path}"
+        },
+        "links" : {
+        	"form" : "[Form about knowledge and interests of F3rBs](https://docs.google.com/forms/d/e/1FAIpQLSfU_-EPDKqT9cq0N_7t9YavNxCk4L0V5ht-GF54mM4r6MRH8g/viewform?usp=pp_url)"
+        }
+
+    },
+    "ptbr" : {
+        "start" : "Olá {nickname}, sou o bot da F3rBs Hackerspace\n\t\t/ajuda - para mais inforamções",
+        "help" : "Comandos disponíveis:\n\t\t\t/regras - para as regras\n\t\t\t/lang - para configuração de minha linguagem\n\t\t\t/info - para informações sobre mim",
+        "welcome" : "Olá {name}\n\n\tBem vind@ ao F3rBs Hacker/Maker space\ndigite /ajuda - para mais informações",
+        "bye" : "Eeeee tchauzinho {name}",
+        "rules" : {
+        	"title" : "- Regras F3rBs Hackerspace -\n",
+            "1" : "Nosso hackspace foi criado no intuito de subversão e troca de conhecimento, não faça posts de informações de outras coisas que estejam fora do tema de tecnologia.",
+            "2" : "Não discrimine ou menospreze qualquer tipo de linguagem de programação, seja ela simples, ou avançada, bastante utilizada ou já esquecida, todas tem sua utilidade e seu valor.",
+            "3" : "Evite discussões, sejam elas de cunho religioso, político, esportivo, etc. Como dito, o hackspace tem o propósito de fazer um networking com os aqui presentes, então, seja amigável.",
+            "4" : "Tenha cuidado com os links de conteúdo que repassa, verifique se o mesmo é confiável e se tem autorização para compartilhamento.",
+            "5" : "Proibido envio de vídeos ou de imagens com teor pornográfico, imagens de acidentes ou tragédias o grupo não foi criado para isso. Tenha isso em mente e acima de tudo, respeito pelas pessoas que estão nele.",
+            "6" : "Se encontrar alguma mensagem que vá contra as regras do grupo, por favor, avise a administração.",
+            "7" : "Não nos responsabilizamos com o conhecimento aqui adquirido, o hackerspace não aceita atividades de carding, banking e afins. O que aprender aqui é logicamente apenas para aprendizado e para ampliação de conhecimento.",
+            "8" : "E havendo qualquer descumprimento de regras, depois de um aviso, se o erro tornar a se repetir, será banido do hackspace.",
+            "ass" : "\n\n_Att. F3rBs Hackerspace_"
+        },
+        "lang_status" : {
+        	"use" : "Uso:\n\n\t\t\t/lang LANG",
+        	"success" : "Linguagem configurada para {l}",
+        	"error" : "Está iso {iso} ainda não foi cadastrada"
+        },
+        "error" : {
+        	"initiate" : "Inicie uma conversa comigo no privado primeiro",
+        	"blocked" : "Você me bloqueou T.T"
+        },
+        "about" : {
+        	"hmspace" : {
+        		"title" : "- Hackspace|Hackerspace|Makerspace|Hacker Club -\n\n",
+        		"description" : "\t\t\t\tSão espaços físicos onde pessoas com interesse em comum, normalmente tenológico(programação, eletrônica, multimédia, design, segurança, ...) mas também outras áreas, se podem encontrar, conversas, troca de idéias, colaboração em projetos e essencialmente partilhar conhecimento para construir e criar coisas, seja através de meetup, eventos internos, palestras dos membros ou terceiros, atividades, laboratórios e afins."
+        	},
+        	"info" : "Fui desenvolvido pela comunidade F3rBs Hackerspace\n\t\t\tversão: {major}.{minor}.{path}"
+        },
+        "links" : {
+        	"form" : "[Formulário sobre conhecimento e interesses da F3rBs](https://docs.google.com/forms/d/e/1FAIpQLSfU_-EPDKqT9cq0N_7t9YavNxCk4L0V5ht-GF54mM4r6MRH8g/viewform?usp=pp_url)"
+        }
+    }
+}
